@@ -46,7 +46,8 @@ AlphaOpsBench: Benchmarking End-to-End Alpha Strategy Operationalization in Pred
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/publications/smartmoney.png' alt="Smart Money in Prediction Markets" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Beyond Profit Rankings: Identifying, Understanding, and Evaluating Smart Money in Prediction Markets
 
@@ -59,7 +60,8 @@ Beyond Profit Rankings: Identifying, Understanding, and Evaluating Smart Money i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/publications/tailrisk.png' alt="DeFi Yield Trading Derivatives" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 A Multi-Asset Dataset and Tail-Risk Framework for DeFi Yield Trading Derivatives
 
@@ -72,7 +74,8 @@ A Multi-Asset Dataset and Tail-Risk Framework for DeFi Yield Trading Derivatives
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/publications/oracle.png' alt="Blockchain Oracle Incentives and Accountability" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 A Cross-Protocol Dataset of Blockchain Oracle Incentives and Accountability
 
@@ -145,7 +148,8 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TDSC 2026</div><img src='images/publications/crosschain.png' alt="Bridgeless Cross-Chain Options" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Protected Exercise for Bridgeless Cross-Chain Options Without Upfront Holder Collateral
 
