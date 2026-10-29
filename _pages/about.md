@@ -19,7 +19,8 @@ Beyond research, I actively participate in blockchain and AI hackathons. I parti
 # 🔥 News
 
 - *2026.10*: **Protected Exercise for Bridgeless Cross-Chain Options** accepted by *IEEE Transactions on Dependable and Secure Computing (TDSC)*.
-- *2026.10*: Three new preprints on prediction markets and on-chain finance are out — smart-money identification in prediction markets, a DeFi yield-derivative tail-risk framework, and a blockchain oracle accountability dataset. See [Publications](#publications).
+- *2026.10*: New preprint on identifying, understanding, and evaluating **smart money in prediction markets**, going beyond simple profit rankings.
+- *2026.10*: Two new preprints on on-chain finance — a **DeFi yield-derivative tail-risk framework** and a **blockchain oracle accountability dataset**. See [Publications](#publications).
 - *2026.10*: **TxSum** accepted at **EMNLP 2026** (October 24–29). [Paper](https://arxiv.org/abs/2512.06933)
 - *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
 - *2026.08*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2604.20374)
