@@ -52,7 +52,8 @@ Zifan Peng, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Ya
 [Paper](https://arxiv.org/abs/2512.06933)
 
 **Protected Exercise for Bridgeless Cross-Chain Options Without Upfront Holder Collateral**. *IEEE TDSC, 2026.*  
-Zifan Peng, Jingyu Liu, Huaiyu Jia, Junhao Yang, Yingjie Xue, Xuechao Wang.
+Zifan Peng, Jingyu Liu, Huaiyu Jia, Junhao Yang, Yingjie Xue, Xuechao Wang.  
+[Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cQ4Tak0AAAAJ&citation_for_view=cQ4Tak0AAAAJ:YsMSGLbcyi4C)
 
 **From Anonymous Wallets to Behavioral Agents: A Calibrated Policy Test Bed for DAO Governance**.  
 Peizhe Li, Huaiyu Jia, Liang Zhang, Shuo Sun.  

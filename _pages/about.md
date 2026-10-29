@@ -158,6 +158,8 @@ Zifan Peng, Jingyu Liu, **Huaiyu Jia**, Junhao Yang, Yingjie Xue, Xuechao Wang
 
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2026*
 
+[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cQ4Tak0AAAAJ&citation_for_view=cQ4Tak0AAAAJ:YsMSGLbcyi4C)
+
 - Enables holders to exercise bridgeless cross-chain options in a protected way, without upfront collateral.
 
 </div>
