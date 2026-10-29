@@ -30,6 +30,15 @@ Prediction Markets, AI for Blockchain, Market Microstructure, On-chain Analytics
 Huaiyu Jia, Mingxuan Zhao, Jincheng Gao, Zifan Peng, Wentao Zhang, Siguang Li, Shuo Sun.  
 [Paper](https://arxiv.org/abs/2609.31390)
 
+**Beyond Profit Rankings: Identifying, Understanding, and Evaluating Smart Money in Prediction Markets**. *Preprint, 2026.*  
+Huaiyu Jia, Shuo Sun.
+
+**A Multi-Asset Dataset and Tail-Risk Framework for DeFi Yield Trading Derivatives**. *Preprint, 2026.*  
+Huaiyu Jia, Jieshun You, Jingyu Liu, Yizhi Luo, Shuo Sun.
+
+**A Cross-Protocol Dataset of Blockchain Oracle Incentives and Accountability**. *Preprint, 2026.*  
+Huaiyu Jia, Siguang Li, Lin William Cong, Luyao Zhang.
+
 **Towards Event-Aware Forecasting in DeFi: Insights from On-chain Automated Market Maker Protocols**. *KDD 2026.*  
 Huaiyu Jia, Jiehshun You, Yizhi Luo, Jingyu Liu, Shuo Sun.  
 [Paper](https://arxiv.org/abs/2604.20374) · [Code](https://github.com/finbrain-lab-hkustgz/Deep-AMM-Events)
@@ -41,6 +50,9 @@ Wentao Zhang, Mingxuan Zhao, Jincheng Gao, Jieshun You, Huaiyu Jia, Yilei Zhao, 
 **TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding**. *EMNLP 2026.*  
 Zifan Peng, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He.  
 [Paper](https://arxiv.org/abs/2512.06933)
+
+**Protected Exercise for Bridgeless Cross-Chain Options Without Upfront Holder Collateral**. *IEEE TDSC, 2026.*  
+Zifan Peng, Jingyu Liu, Huaiyu Jia, Junhao Yang, Yingjie Xue, Xuechao Wang.
 
 **From Anonymous Wallets to Behavioral Agents: A Calibrated Policy Test Bed for DAO Governance**.  
 Peizhe Li, Huaiyu Jia, Liang Zhang, Shuo Sun.  

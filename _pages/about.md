@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Huaiyu Jia is a Ph.D. student at HKUST(GZ), working on AI for Blockchain, on-chain data analytics, AI agents, and on-chain finance."
+excerpt: "Huaiyu Jia is a Ph.D. student at HKUST(GZ), working on AI for Blockchain, Prediction Markets, Market Microstructure, on-chain data analytics, AI agents, and on-chain finance."
 author_profile: true
 redirect_from:
   - /about/
@@ -12,12 +12,14 @@ redirect_from:
 
 Hi, I'm Huaiyu Jia (贾怀宇), a third-year Ph.D. student in the FinTech Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Dr. Shuo Sun](https://scholar.google.com/citations?user=kGgWv8IAAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from the School of Information and Software Engineering at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I had the opportunity to work with [Prof. Dajiang Chen](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20218?yxsh=09).
 
-My research interests lie primarily in AI for Blockchain (AI4Blockchain). In particular, I am interested in combining artificial intelligence with blockchain systems to analyze complex on-chain data, understand on-chain behaviors, and enable more intelligent and reliable on-chain decision-making and interactions. I am also broadly interested in AI agents, on-chain finance, and autonomous blockchain systems.
+My research interests lie primarily in AI for Blockchain (AI4Blockchain) and Prediction Markets. In particular, I am interested in combining artificial intelligence with blockchain systems to analyze complex on-chain data, understand on-chain behaviors and market microstructure, and enable more intelligent and reliable on-chain decision-making and interactions. I am also broadly interested in on-chain analytics, AI agents, and on-chain finance.
 
 Beyond research, I actively participate in blockchain and AI hackathons. I particularly enjoy turning research ideas into working systems, especially prototypes that connect AI agents with on-chain data, payments, and executable blockchain workflows.
 
 # 🔥 News
 
+- *2026.10*: **Protected Exercise for Bridgeless Cross-Chain Options** accepted by *IEEE Transactions on Dependable and Secure Computing (TDSC)*.
+- *2026.10*: Three new preprints on prediction markets and on-chain finance are out — smart-money identification in prediction markets, a DeFi yield-derivative tail-risk framework, and a blockchain oracle accountability dataset. See [Publications](#publications).
 - *2026.10*: **TxSum** accepted at **EMNLP 2026** (October 24–29). [Paper](https://arxiv.org/abs/2512.06933)
 - *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
 - *2026.08*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2604.20374)
@@ -40,6 +42,45 @@ AlphaOpsBench: Benchmarking End-to-End Alpha Strategy Operationalization in Pred
 
 - Tests whether a language model can turn a coarse prediction-market idea into an auditable executable program.
 - Built on 581 source-preserving strategy records and a lifecycle-scale Polymarket dataset, comparing direct generation with a staged design-then-code protocol.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+Beyond Profit Rankings: Identifying, Understanding, and Evaluating Smart Money in Prediction Markets
+
+**Huaiyu Jia**, Shuo Sun
+
+*Preprint, 2026*
+
+- Identifies, understands, and evaluates smart-money wallets in prediction markets beyond simple profit rankings.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+A Multi-Asset Dataset and Tail-Risk Framework for DeFi Yield Trading Derivatives
+
+**Huaiyu Jia**, Jieshun You, Jingyu Liu, Yizhi Luo, Shuo Sun
+
+*Preprint, 2026*
+
+- A multi-asset dataset and a tail-risk framework for trading derivatives on DeFi yield.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+A Cross-Protocol Dataset of Blockchain Oracle Incentives and Accountability
+
+**Huaiyu Jia**, Siguang Li, Lin William Cong, Luyao Zhang
+
+*Preprint, 2026*
+
+- A cross-protocol dataset capturing blockchain oracle incentives and accountability.
 
 </div>
 </div>
@@ -100,6 +141,19 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 
 - A token-flow explanation task for complex Ethereum transactions, built from user interviews.
 - MATEX, a multi-agent framework that checks explanations against raw traces before showing them to users.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+Protected Exercise for Bridgeless Cross-Chain Options Without Upfront Holder Collateral
+
+Zifan Peng, Jingyu Liu, **Huaiyu Jia**, Junhao Yang, Yingjie Xue, Xuechao Wang
+
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2026*
+
+- Enables holders to exercise bridgeless cross-chain options in a protected way, without upfront collateral.
 
 </div>
 </div>
